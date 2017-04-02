@@ -4,7 +4,7 @@ This is my
 
 # React Gulp Browserify Boilerplate
 
-Its basically a template development environment with all of my favorite dependencies.
+Its basically a template of a React app how I would like to make it, with the dependencies I would like to use. Maybe it has the dependencies you would like to use too.
 
 How to get going..
 ```
