@@ -4,7 +4,7 @@ This is my
 
 # React Gulp Browserify Boilerplate
 
-Its basically a template development environment with all of my favorite dependencies. It also might be useful to look at, if you are learning how to use Elm.
+Its basically a template development environment with all of my favorite dependencies.
 
 How to get going..
 ```
@@ -20,10 +20,10 @@ then open up http://localhost:2980
 This repo is organized as ..
 ```
 dist/                     -- Your production-ready app
-development/                      -- Your development app
+development/              -- Your development app
   index.html
 source/                   -- Source files
-  app.jsx                  -- Loads your elm file, and handles ports
+  app.jsx                 
   Actions/
     Field.jsx
   Styles/

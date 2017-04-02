@@ -5,7 +5,7 @@
   "main": "gulpFile.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Chadtech/elm-gulp-browserify-boilerplate"
+    "url": "https://github.com/Chadtech/react-gulp-browserify-boilerplate"
   },
   "keywords": [
     "react",
